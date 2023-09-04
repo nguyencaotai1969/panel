@@ -19,7 +19,9 @@ Centos安装命令（默认安装是7.8.0 直接在线升级7.9.4）：
 ```bash
 yum install -y wget && wget -O install.sh http://io.bt.sy/install/install_6.0.sh && sh install.sh
 
-quay vè version tương thích
+quay vè version tương 7.9.10 thích 
+https://www.baota.me/post-364.html
+
 wget -O update6.sh http://download.bt.cn/install/update6.sh && sed -i 's/LinuxPanel-${version}/LinuxPanel-7.9.10/g' update6.sh && sh update6.sh
 
 ```
