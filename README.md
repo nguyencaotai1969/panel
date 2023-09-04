@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/veip007/BaoTa/main/7.9/update6.sh
 Centos安装命令（默认安装是7.8.0 直接在线升级7.9.4）：
 ```bash
 yum install -y wget && wget -O install.sh http://io.bt.sy/install/install_6.0.sh && sh install.sh
+
+quay vè version tương thích
+wget -O update6.sh http://download.bt.cn/install/update6.sh && sed -i 's/LinuxPanel-${version}/LinuxPanel-7.9.10/g' update6.sh && sh update6.sh
+
 ```
 试验性Centos/Ubuntu/Debian安装命令 独立运行环境（py3.7） 可能存在少量兼容性问题 不断优化中
 ```bash
@@ -74,3 +78,4 @@ bash <(curl -s -L https://raw.githubusercontent.com/veip007/BaoTa/main/7.51/QY/i
 ### [5.9 专业版](https://github.com/veip007/Crack_BT_Panel)
 
 https://www.baota.me/# panel
+
