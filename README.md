@@ -117,6 +117,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/nguyencaotai1969/main/7.51/Q
 注：以上需要安装```curl```环境
 
 ### [5.9 专业版](https://github.com/veip007/Crack_BT_Panel)
+https://github.com/veip007/BaoTa
 
 https://www.baota.me/# panel
 
